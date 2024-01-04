@@ -1,0 +1,5 @@
+SpeechRecognition
+winotify
+g4f
+pytube
+vosk
